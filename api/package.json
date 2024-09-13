@@ -27,5 +27,8 @@
   "directories": {
     "lib": "lib"
   },
+  "resolutions": {
+  "hawk": "@hapi/hawk"
+},
   "description": ""
 }
